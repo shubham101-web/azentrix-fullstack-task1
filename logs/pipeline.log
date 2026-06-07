@@ -1,0 +1,18 @@
+2026-06-07 01:35:06,902 - INFO - Pipeline Started
+2026-06-07 01:35:09,853 - INFO - Extracted Rows = 231
+2026-06-07 01:35:09,880 - INFO - Data Transformation Completed
+2026-06-07 01:35:09,917 - INFO - Data Loaded into SQLite Database
+2026-06-07 01:35:09,919 - INFO - SUCCESS | Total Rows Processed = 231
+2026-06-07 01:36:36,180 - INFO - Pipeline Started
+2026-06-07 01:36:38,749 - INFO - Extracted Rows = 231
+2026-06-07 01:36:38,773 - INFO - Data Transformation Completed
+2026-06-07 01:36:38,826 - INFO - Data Loaded into SQLite Database
+2026-06-07 01:36:38,826 - INFO - SUCCESS | Total Rows Processed = 231
+2026-06-07 01:36:38,839 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-06-07 01:36:38,839 - INFO - Pipeline Started
+2026-06-07 01:36:42,118 - INFO - Extracted Rows = 231
+2026-06-07 01:36:42,143 - INFO - Data Transformation Completed
+2026-06-07 01:36:42,195 - INFO - Data Loaded into SQLite Database
+2026-06-07 01:36:42,198 - INFO - SUCCESS | Total Rows Processed = 231
+2026-06-07 01:36:42,199 - INFO - Added job "run_pipeline" to job store "default"
+2026-06-07 01:36:42,200 - INFO - Scheduler started
