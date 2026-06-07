@@ -133,20 +133,17 @@ python src/scheduler.py
 
 
 ---
+
 ## GitHub Repository
-
-The GitHub repository link will be added after the project is pushed to GitHub.
-
 **Repository Name:** azentrix-fullstack-task1
-
-GitHub Repository URL: To be updated after GitHub submission.
+Repository Link:
+https://github.com/shubham101-web/azentrix-fullstack-task1
 
 ---
-
 ## Loom Video
 
-Loom Video URL :https://www.loom.com/share/da5448f8526144288cad846da1f31bf9
-
+Loom Video URL:
+https://www.loom.com/share/da5448f8526144288cad846da1f31bf9
 ---
 
 ## Technologies Used
