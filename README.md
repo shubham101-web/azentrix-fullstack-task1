@@ -27,8 +27,7 @@ The project also includes logging and automated scheduling using APScheduler.
 
 ## Project Structure
 
-
-text
+```text
 azentrix-fullstack-task1/
 │
 ├── src/
@@ -51,7 +50,9 @@ azentrix-fullstack-task1/
 │   └── 04_pipeline_logs.png
 │
 ├── requirements.txt
+├── .gitignore
 └── README.md
+```
 
 
 ---
